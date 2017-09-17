@@ -1,2 +1,2 @@
-# formulas-and-numbers.github.io
+# Formulas and Numbers
 Organization web-site
